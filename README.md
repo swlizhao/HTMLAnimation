@@ -1,3 +1,2 @@
 # HTMLAnimation
-CoreAnimation
 使用CoreAnimation核心动画库实现类似网页的效果
